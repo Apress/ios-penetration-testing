@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "9942db1ef7d5c680fcc13b148a489292"
+build_time: [518088461, 742605000]
+inputs:
+  "/Users/kunalrelan/Documents/Developer/ios_app/Hello World/Hello World/ViewController.swift": [517851770, 0]
+  "/Users/kunalrelan/Documents/Developer/ios_app/Hello World/Hello World/AppDelegate.swift": [517831237, 0]
