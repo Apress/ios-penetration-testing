@@ -1,6 +1,6 @@
 Freeware License, some rights reserved
 
-Copyright (c) 2016 Relan, Kunal
+Copyright (c) 2016 Kunal Cheda, James Greenwood, Brian Bischof, Rob Harrop, Colt Kwong, Jan Machacek, Jon Reid, William Sempf and Donald Xie
 
 Permission is hereby granted, free of charge, to anyone obtaining a copy 
 of this software and associated documentation files (the "Software"), 

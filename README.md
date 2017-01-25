@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*iOS Penetration Testing*](http://www.apress.com/9781484223543) by Relan, Kunal (Apress, 2016).
+This repository accompanies [*iOS Penetration Testing*](http://www.apress.com/9781484223543) by Kunal Cheda, James Greenwood, Brian Bischof, Rob Harrop, Colt Kwong, Jan Machacek, Jon Reid, William Sempf and Donald Xie (Apress, 2016).
 
 ![Cover image](9781484223543.jpg)
 
